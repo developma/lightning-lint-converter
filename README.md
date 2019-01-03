@@ -1,0 +1,1 @@
+# lightning-lint-converter
